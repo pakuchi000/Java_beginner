@@ -1,5 +1,5 @@
 
-public class Heloojava2 {
+public class Heloojava3 {
 
 	public static void main(String[] args) {
 
